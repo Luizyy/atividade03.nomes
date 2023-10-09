@@ -1,0 +1,10 @@
+import time
+nome1 = ('Banana')
+nome2 = ('Abacaxi')
+nome3 = ('Morango')
+time.sleep(5)
+print (nome1)
+time.sleep(5)
+print (nome2)
+time.sleep (5)
+print (nome3)
